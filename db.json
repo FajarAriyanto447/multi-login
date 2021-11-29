@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "siswa",
+      "password": "1234",
+      "role": "siswa"
+    },
+    {
+      "id": 3,
+      "username": "guru",
+      "password": "12345",
+      "role": "guru"
+    },
+    {
+      "username": "fajar",
+      "password": "321",
+      "role": "siswa",
+      "id": 4
+    },
+    {
+      "username": "nye",
+      "password": "nye",
+      "role": "siswa",
+      "id": 5
+    },
+    {
+      "username": "kepala sekolah",
+      "password": "kepalasekolah123",
+      "role": "kepalasekolah",
+      "id": 6
+    },
+    {
+      "username": "1234567890",
+      "password": "0987654321",
+      "role": "siswa",
+      "id": 7
+    }
+  ]
+}
